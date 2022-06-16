@@ -2,10 +2,10 @@
 
 This were projects I did for subject "Principles of low-level programming".
 Name of HWs:
-
-HW01: Programmer calculator
-HW02: Minesweeper
-HW03: Network traffic analyzer
-HW04: Xpath
-HW05: Permission check.
-
+<ol>
+<li>HW01: Programmer calculator</li>
+<li>HW02: Minesweeper</li>
+<li>HW03: Network traffic analyzer</li>
+<li>HW04: Xpath</li>
+<li>HW05: Permission check.</li>
+</ol>

@@ -1,7 +1,7 @@
 # C projects
 
 This were projects I did for subject "Principles of low-level programming".
-Name of HWs:
+
 <ul>
 <li>HW01: Programmer calculator</li>
 <li>HW02: Minesweeper</li>

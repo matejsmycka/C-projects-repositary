@@ -16,4 +16,4 @@ Assignments were graded by unit and integration tests not visible to us.
 Some funtions were premaded or badly implemented by teachers and we could use them after revision and correction.
 <br>
 <br>
-All \*.c files have 4485 lines of code, 6595 lines total. 
+All \*.c files together have 4485 lines of code and * files have 6595 (21535 words) lines total. 

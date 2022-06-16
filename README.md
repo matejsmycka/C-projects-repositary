@@ -14,3 +14,5 @@ I am most proud of HW03 and HW05,
 we had roughly one and half week to complete each project, so they are not perfect.
 Assignments were graded by unit and integration tests not visible to us.
 Some funtions were premaded or badly implemented by teachers and we could use them after revision and correction.
+\\
+All \*.c files have 4485 lines of code, 6595 lines total. 

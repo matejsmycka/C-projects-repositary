@@ -1,6 +1,6 @@
 # C projects
 
-This were projects I did for subject "Principles of low-level programming".
+These are projects I did for subject "Principles of low-level programming".
 
 <ul>
 <li>HW01: Programmer calculator</li>

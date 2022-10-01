@@ -9,8 +9,7 @@ These are projects I did for subject "Principles of low-level programming".
 <li>HW04: Xpath</li>
 <li>HW05: Permission check.</li>
 </ul>
-
-I am most proud of HW03 and HW05, we had roughly one and half weeks to complete each project, so they are not perfect. Assignments were graded by unit, and integration tests were not visible to us. Some functions were premade or poorly implemented by teachers, and we could use them after revision and correction.
+I'm most proud of HW03 and HW05, we had about a week and a half for each project, so they're not perfect. The assignments were graded using unit and integration tests, the design of which we didn't see. Some features were pre-made or poorly implemented by teachers and we were only able to use them after revising and correcting.
 <br>
 <br>
 All *.c files have 4485 (13000 words) lines of code.
